@@ -1,13 +1,8 @@
 ## H-Run
 
-#### // Run
+```bash
+> cabal build
+> npm link
+> h-run src/Test.hs
+```
 
-```
-stack run
-```
-
-#### // Build
-
-```
-cobal build
-```
