@@ -1,0 +1,10 @@
+{
+  "name": "haskell-run",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Somnuk Wongkhan <somnuk.wk@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "h-run": "./index.js"
+  }
+}
